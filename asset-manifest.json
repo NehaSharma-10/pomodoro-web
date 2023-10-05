@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NehaSharma-10/pomodoro-web/static/css/main.1b2318bc.css",
+    "main.js": "/NehaSharma-10/pomodoro-web/static/js/main.ab132a8c.js",
+    "index.html": "/NehaSharma-10/pomodoro-web/index.html",
+    "main.1b2318bc.css.map": "/NehaSharma-10/pomodoro-web/static/css/main.1b2318bc.css.map",
+    "main.ab132a8c.js.map": "/NehaSharma-10/pomodoro-web/static/js/main.ab132a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2318bc.css",
+    "static/js/main.ab132a8c.js"
+  ]
+}
